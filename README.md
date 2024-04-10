@@ -13,6 +13,7 @@ The goal of this project is to predict flight delays using machine learning tech
     - Due to resource constraints, we sample a subset of the original dataset to prevent system freezing.
   
     - Merged_dataset link: https://drive.google.com/file/d/10cmyACVAX0hInfpoPMv8Khbe46ynhNjb/view?usp=sharing
+    - Shape: (90678, 27) , I've stopped the code in between to prevent system freezing, the code should work fine when given high spec machine to merge all the data. 
 
 2. **Feature Engineering**:
     - We drop unnecessary date columns as they are not relevant for prediction.
