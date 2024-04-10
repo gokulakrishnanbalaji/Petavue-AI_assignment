@@ -11,6 +11,8 @@ The goal of this project is to predict flight delays using machine learning tech
     - Next, we iterate through each row in the flight dataframe, fetch corresponding weather data, and store it in a list.
     - We extend our dataframe with the list containing weather information and save it as `merged_dataset.csv`.
     - Due to resource constraints, we sample a subset of the original dataset to prevent system freezing.
+  
+    - Merged_dataset link: https://drive.google.com/file/d/10cmyACVAX0hInfpoPMv8Khbe46ynhNjb/view?usp=sharing
 
 2. **Feature Engineering**:
     - We drop unnecessary date columns as they are not relevant for prediction.
